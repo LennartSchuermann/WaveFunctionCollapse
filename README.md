@@ -1,4 +1,4 @@
-# WaveFunctionCollapse
+# Wave-Function-Collapse
 A small implementation of the Wave-Function-Collapse Algorithm.<br/>
 Author:   &emsp;  Lennart S.<br/>
 Language:   &emsp;  C/C++<br/>
