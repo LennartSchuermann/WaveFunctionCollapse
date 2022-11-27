@@ -92,8 +92,6 @@ int main()
         if(!cellsEntropySorted.empty())
             cellsEntropySorted[0]->collapse(false);
 
-        //update cells
-
         //Clear the window with black color
         window.clear(sf::Color(61, 61, 61));
 
